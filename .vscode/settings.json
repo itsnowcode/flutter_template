@@ -1,0 +1,7 @@
+{
+    "dart.flutterSdkPath": "flutter_sdk",
+    // スペルチェッカーの許可リスト
+    "cSpell.words": [
+        "prefs"
+    ]
+}
